@@ -12,3 +12,7 @@
 * sort.py：对原始json文件排序并设置缩进
 
 * find_movies.py：查找电影，GUI界面
+
+* douban_top250.json：原始爬取数据
+
+* douban_movie_top250.json：处理后数据
